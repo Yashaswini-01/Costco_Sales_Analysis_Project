@@ -19,7 +19,8 @@ Real-time filtering capabilities with dynamic visualizations for comprehensive b
 <img src="Costco Power BI Dashboard.png" alt="Screenshot" width="600"/>
 
 
-🔗 View the interactive Tableau dashboard(https://app.powerbi.com/reportEmbed?reportId=fa187c20-d4e3-442f-ad7e-d854215c0b60&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)
+🔗 **[Interactive Power BI Dashboard - Live Demo](https://app.powerbi.com/reportEmbed?reportId=fa187c20-d4e3-442f-ad7e-d854215c0b60&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)**
+
 
 
 ---
