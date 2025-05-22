@@ -1,7 +1,7 @@
 # 📊 Costco Global Sales Analysis (2020–2024)
 
 ---
-<img src="Costco logo.png" alt="Screenshot" width="720"/>
+<img src="Costco-Logo-Registered.png" alt="Screenshot" width="720"/>
 
 ## 1) 🎯 Project Overview
 
